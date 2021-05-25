@@ -72,6 +72,7 @@ function sendMail(params) {
             status.classList.add('success')
             status.innerHTML = "Thanks for your submission!";
             form.reset()
+            alert('Your message sent')
         })
 }
 

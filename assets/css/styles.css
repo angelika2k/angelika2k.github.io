@@ -691,3 +691,7 @@ img{
     pointer-events: none;
   }
 }
+
+.container{
+  text-align: center;
+}

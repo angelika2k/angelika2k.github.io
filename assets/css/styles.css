@@ -296,22 +296,22 @@ img{
   width: 85%;
 }
 .skills__js{
-  width: 55%;
+  width: 80%;
 }
 .skills__ux{
   width: 85%;
 }
 .skills__j{
-  width: 65%;
+  width: 75%;
 }
 .skills__mongo{
-  width: 65%;
+  width: 70%;
 }
 .skills__react{
-  width: 85%;
+  width: 90%;
 }
 .skills__reactmi{
-  width: 80%;
+  width: 85%;
 }
 .skills__sb{
   width: 55%;
@@ -636,27 +636,6 @@ img{
 
 }
 
-
-/* ===== FOOTER =====*/
-/* .footer{
-  background-color: var(--second-color);
-  color: #fff;
-  text-align: center;
-  font-weight: var(--font-semi);
-  padding: 2rem 0;
-}
-.footer__title{
-  font-size: 2rem;
-  margin-bottom: var(--mb-4);
-}
-.footer__social{
-  margin-bottom: var(--mb-4);
-}
-.footer__icon{
-  font-size: 1.5rem;
-  color: #fff;
-  margin: 0 var(--mb-2)
-} */
 
 /*############## STATUS #################*/
 

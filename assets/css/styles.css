@@ -258,7 +258,7 @@ img{
   margin-bottom: var(--mb-2);
 }
 .skills__text{
-  margin-bottom: var(--mb-4);
+  margin-bottom: var(--mb-2);
 }
 .skills__data{
   display: flex;
@@ -267,9 +267,10 @@ img{
   position: relative;
   font-weight: var(--font-semi);
   padding: .5rem 1rem;
-  margin-bottom: var(--mb-4);
+  margin-bottom: var(--mb-2);
   border-radius: .5rem;
-  box-shadow: 0 4px 25px rgba(14,36,49,.15);
+  box-shadow: 0 4px 25px rgba(4, 0, 5, 0.15);
+  border: 2px solid rgb(247, 153, 250);
 }
 .skills__icon{
   font-size: 2rem;
@@ -673,4 +674,16 @@ img{
 
 .container{
   text-align: center;
+}
+
+
+.row {
+  display: flex;
+}
+
+/* Create two equal columns that sits next to each other */
+.column {
+  flex: 50%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
 }
